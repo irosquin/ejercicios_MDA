@@ -14,7 +14,7 @@ https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.00.png
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.07.png
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.19.png
-
+https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.25.png
 
 4. Al crear la index pattern, detectamos que el campo location no es de tipo geo_point, por lo que no lo podremos reflejar en el mapa: crear un index cambiando la location a geopoint (reindex).
 
