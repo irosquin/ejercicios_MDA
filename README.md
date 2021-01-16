@@ -11,7 +11,7 @@ https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-
    - splitJson
    - putElasticsearch: enviar los datos de data.ciyofnewyork a elasticsearch, creando un índice llamado nyc.
 
-![imagen] (https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.29.51.png)
+https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.29.51.png)
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.00.png
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.07.png
 https://github.com/irosquin/ejercicios_MDA/blob/main/Captura%20de%20pantalla%202021-01-15%20a%20las%2017.30.19.png
